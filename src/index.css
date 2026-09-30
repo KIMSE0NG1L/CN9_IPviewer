@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-mono:
+    'SFMono-Regular', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #050506;
+}
